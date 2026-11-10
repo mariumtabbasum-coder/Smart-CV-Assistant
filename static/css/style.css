@@ -18,4 +18,4 @@ html,body{width:100%;max-width:100%;overflow-x:hidden!important}
 .result-content,.result-head,.result-block{min-width:0;overflow-wrap:anywhere}
 @media(max-width:1100px){.workspace-grid{grid-template-columns:minmax(0,1fr)}.form-panel,.result-panel{width:100%;min-width:0}}
 @media(max-width:600px){.navbar{height:66px}.navbar .container{padding-left:16px;padding-right:16px;gap:8px}.navbar-brand{font-size:1.08rem;gap:7px!important}.brand-mark{width:31px;height:31px;flex:0 0 31px}.nav-note{max-width:46%;font-size:.52rem;letter-spacing:.8px}body{padding-top:66px}}
-@media(max-width:600px){.hero-art{max-width:100%;overflow:hidden}.floating-note{right:0}}
+@media(max-width:600px){.hero-art{max-width:100%;overflow:visible}.floating-note{right:0}}
